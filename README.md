@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-cfrs2005-mcp-gs-robot-badge.png)](https://mseep.ai/app/mcp-mirror-cfrs2005-mcp-gs-robot)
+
 # Gausium OpenAPI MCP Server
 
 This project implements an MCP (Model Control Protocol) server that acts as a bridge to the Gausium OpenAPI, allowing AI models or other clients to interact with Gausium robots through a standardized interface.
